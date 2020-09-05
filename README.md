@@ -1,5 +1,5 @@
 # Java-Spring-Boot-Websocket-chat
-Chat Room using Sock Js and STOMP
+Sala de bate-papo usando Sock Js e STOMP
 
 
 ## screenshot
