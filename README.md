@@ -1,4 +1,4 @@
-# Java-Spring-Boot-Websocket
+# Java-Spring-Boot-Websocket-chat
 Chat Room using Sock Js and STOMP
 
 
